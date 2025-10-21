@@ -3,6 +3,8 @@
 Portfolio ini saya buat untuk menampilkan hasil karya dan layanan yang saya tawarkan di bidang desain dan pengembangan antarmuka. 
 html ini juga menggabungkan konsep transaksi jual beli, di mana saya menyediakan jasa joki untuk desain grafis, editing video, serta pembuatan UI/UX. 
 
+https://youtu.be/jPKBoFe0RYY
+
 <img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/5e15ba90-e56d-449e-96e4-b22d051fa9ae" />
 <img width="1917" height="894" alt="image" src="https://github.com/user-attachments/assets/0707e759-d297-4464-9199-aeb604d842a8" />
 <img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/99c5378f-3b00-4d24-9589-4dfed6ab87b9" />
