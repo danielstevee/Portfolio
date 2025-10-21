@@ -8,8 +8,8 @@ html ini juga menggabungkan konsep transaksi jual beli, di mana saya menyediakan
 <img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/99c5378f-3b00-4d24-9589-4dfed6ab87b9" />
 <img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/167a48ba-101a-42ff-b168-f36d407f9d94" />
 <img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/39088f12-001d-4b76-b6ad-b416b2c15870" />
-<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/2234ee01-e663-4e1e-80fd-01ca95557b6f" />
-<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/d0782665-31a7-47cb-ae3c-a50bba5ee555" />
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/222bb6f2-cd34-4876-8ffc-97e850bff41c" />
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/b0fd2919-f6e6-4f33-b251-705d6d3d9e56" />
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/31f55b3f-e901-4020-876d-708e78afb1e2" />
 
 
