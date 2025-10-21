@@ -11,6 +11,8 @@ html ini juga menggabungkan konsep transaksi jual beli, di mana saya menyediakan
 <img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/222bb6f2-cd34-4876-8ffc-97e850bff41c" />
 <img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/b0fd2919-f6e6-4f33-b251-705d6d3d9e56" />
 <img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/31f55b3f-e901-4020-876d-708e78afb1e2" />
+<img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/2ecc2370-4bb9-49db-9967-259ab4d7a9a1" />
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/1f7a9c84-91c9-4dbc-950f-fa71ad3e4b9d" />
 
 
 
